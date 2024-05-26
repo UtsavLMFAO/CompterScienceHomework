@@ -1,10 +1,8 @@
-Hey!
-This program will give you somewhat of an overview on every element in the periodic table. 
+Hii!
+This program is made just out of fun and somewhat of a homework completion task..
 
 To run the program:
-1. Run the run.py script
+1. Run the run.py file
 
-
-If encountering Module error:
-Run the HomePage.py file and AnswersPage.py file separately and individually once and try again :)
-(Ps: If you know how to fix it please let me know as well..)
+If you encounter any error:
+Run the HomePage and AnswersPage files individually and try again :)
