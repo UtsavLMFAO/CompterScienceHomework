@@ -1,5 +1,5 @@
 Hii!
-This program is made just out of fun and somewhat of a homework completion task..
+This program is made just out of fun and somewhat of a homework completion task!
 
 To run the program:
 1. Run the run.py file
