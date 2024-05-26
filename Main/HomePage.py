@@ -81,6 +81,3 @@ def home():
         
 
     pyglet.app.run()
-
-
-
